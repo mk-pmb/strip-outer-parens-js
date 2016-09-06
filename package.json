@@ -1,0 +1,39 @@
+{ "name": "strip-outer-parens",
+  "version": "0.1.0",
+  "description": "Strip pairs of outermost brackets (custom, round, curly, angle, braces, parens, chevrons).",
+  "keywords": [
+    "angle",
+    "braces",
+    "brackets",
+    "chevrons",
+    "curly",
+    "discard",
+    "outer",
+    "parens",
+    "parentheses",
+    "remove",
+    "strip",
+    "trim"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/strip-outer-parens-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/strip-outer-parens-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/strip-outer-parens-js/issues"
+  },
+
+  "private": false, "license": "ISC",
+
+  "main": "unpar.js",
+  "scripts": { "test": "nodejs test.js" },
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
